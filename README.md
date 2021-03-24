@@ -1,6 +1,7 @@
 # sonia-credit-adjustment-spread
 ## Calculated Credit Adjustment Spread
-Calculated based on the difference between GBP LIBOR for various tenors and SONIA compounded in arrears over the same period calculated using a median over a five-year lookback period
+Calculated based on the difference between GBP LIBOR for various tenors and SONIA compounded in arrears over the same period calculated using a median over a five-year lookback period \
+\
 ![png](https://github.com/ibrahimdirar/sonia-credit-adjustment-spread/blob/main/img/adjustment-spreads.png)
 
 ## LIBOR All Tenors
